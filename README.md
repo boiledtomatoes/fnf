@@ -1,2 +1,2 @@
-# fnfmods
-A few friday night funkin mods, all with kade engine so people on low-end devices can still play
+[Garcello Mod](https://boiledtomatoes.github.io/FNFGarcello/)
+[Friday Night Funkin' Vanilla (week 6)](https://boiledtomatoes.github.io/fnf/Vanilla)
